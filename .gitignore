@@ -37,3 +37,6 @@ secrets.yaml
 .claude/
 docs/superpowers/
 docs/handoffs/
+
+# FORTRESS audit artifacts
+.fortress/
